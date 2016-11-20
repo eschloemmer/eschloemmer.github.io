@@ -1,0 +1,35 @@
+body {
+	background-color: #e9dccd;
+}
+
+dl {
+	text-align: left;
+}
+
+.top-row {
+	background-color: white;
+}
+
+.profile-picture {
+	max-width: 80%;
+	padding-bottom: 20px;
+}
+
+.card-background {
+	background-color: #e9dccd;
+	border-color: #e9dccd;
+}
+
+.cardfooter-background {
+	background-color: #e9dccd;
+	border-color: #e9dccd;	
+}
+
+.title {
+	border-bottom: solid 2px white;
+	padding-bottom: 12px;
+}
+
+.navbar {
+  background: #613a43;
+}
